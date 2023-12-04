@@ -1,4 +1,4 @@
-![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Good%20Day%20To%20Code!&fontAlign=40&fontAlignY=40&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=360&text=Hello+World%21&fontSize=70&fontAlign=50&fontAlignY=50&desc=Happy+Coding+Day&descSize=20&descAlign=50&descAlignY=60)
 ### Hello I'm heejin 👋
 - 🌱 I’m currently learning ...
   
